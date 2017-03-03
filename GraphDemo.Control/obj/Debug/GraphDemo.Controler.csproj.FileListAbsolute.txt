@@ -1,0 +1,15 @@
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\obj\Debug\GraphDemo.Controler.csprojResolveAssemblyReference.cache
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\obj\Debug\GraphDemo.Control.Properties.Resources.resources
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\obj\Debug\GraphDemo.Controler.csproj.GenerateResource.Cache
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\obj\Debug\GraphDemo.Graph.resources
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\bin\Debug\GraphDemo.Control.exe.config
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\bin\Debug\GraphDemo.Control.exe
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\bin\Debug\GraphDemo.Control.pdb
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\obj\Debug\GraphDemo.Control.exe
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\obj\Debug\GraphDemo.Control.pdb
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\obj\Debug\GraphDemo.Control.Form1.resources
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\bin\Debug\GraphDemo.DataProvider.dll
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\bin\Debug\GraphDemo.Data.dll
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\bin\Debug\DynamicDataDisplay.dll
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\bin\Debug\GraphDemo.DataProvider.pdb
+D:\杲杲的工程\GraphDemo\GraphDemo.Control\bin\Debug\GraphDemo.Data.pdb
